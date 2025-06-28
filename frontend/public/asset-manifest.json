@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abc_car_rental/static/css/main.51e52db1.css",
+    "main.js": "/abc_car_rental/static/js/main.2c2afea1.js",
+    "index.html": "/abc_car_rental/index.html",
+    "main.51e52db1.css.map": "/abc_car_rental/static/css/main.51e52db1.css.map",
+    "main.2c2afea1.js.map": "/abc_car_rental/static/js/main.2c2afea1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51e52db1.css",
+    "static/js/main.2c2afea1.js"
+  ]
+}

@@ -1,0 +1,7 @@
+# Ignore environment variables
+.env
+
+# Node.js specific
+node_modules/
+npm-debug.log
+yarn-error.log
