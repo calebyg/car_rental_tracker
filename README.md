@@ -16,25 +16,4 @@ A full-stack issue tracking application built to streamline internal operations 
 
 📁 Project File Structure
 
-car_rental_tracker/
-├── backend/
-│ ├── config/
-│ │ └── db.js # PostgreSQL pool setup (dotenv + pg)
-│ ├── queries/
-│ │ └── tickets.js # SQL queries (e.g. insert, update, delete, resolve)
-│ ├── routes/
-│ │ └── tickets.js # Express routes for ticket operations
-│ ├── server.js # Express server entry point
-│ ├── package.json # Backend dependencies & scripts
-│ └── package-lock.json
-│
-├── frontend/
-│ ├── public/
-│ │ └── index.html # HTML entry point
-│ ├── src/
-│ │ ├── components/ # React components (TicketList, TicketForm, etc.)
-│ │ ├── stylesheets/ # CSS files (e.g., TicketForm.css)
-│ │ ├── App.js # Main React app component
-│ │ └── index.js # React DOM root
-│ ├── package.json # Frontend dependencies & scripts
-│ └── package-lock.json
+![Project File Structure](./frontend/public/full-stack-structure.png)
